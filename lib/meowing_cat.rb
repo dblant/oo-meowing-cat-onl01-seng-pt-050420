@@ -4,7 +4,7 @@ class Cat
   
   def name(name)
     
-    attr_accessor = name
+    :name = name
   end
 
   def meow
