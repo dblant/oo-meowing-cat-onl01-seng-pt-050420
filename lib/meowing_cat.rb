@@ -2,9 +2,9 @@
 class Cat 
   attr_accessor :name 
   
-  def name
+  def name(name)
     
-    attr_accessor
+    attr_accessor = name
   end
 
   def meow
