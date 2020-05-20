@@ -6,8 +6,8 @@ class Cat
     :name
   end
   
-  def name=()
-  
+  def name=(name)
+  :name
   def meow
     puts "meow!"
   end
